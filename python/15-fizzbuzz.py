@@ -8,7 +8,7 @@
 # For multiples of 3 and 5, print "FizzBuzz".
 #-----------------------------------------------
 
-for i in range (100):
+for i in range(1, 101):
   
   # MULTIPLES OF 3 AND 5
   if i%3==0 and i%5==0:
