@@ -7,6 +7,7 @@
 # - relational operators;
 # - logical operators.
 
+
 #-----------------------------------------------
 # PRACTISE
 # Write a program that asks the user some questions:
@@ -93,7 +94,7 @@ print("Q3) Which kind of instrument most pleases your ear?")
 print("1) The violin")
 print("2) The trumpet")
 print("3) The piano")
-print("2) The drum")
+print("4) The drum")
 
 a3=int(input("Answer: "))
 
